@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VictoryIfebhor
 - 👀 I'm a backend developer.
-- 🌱 I code in Java and Python.
-- 💞️ I’m looking to collaborate on any Java or Python project.
+- 🌱 I code in Python, Java and Node JS.
+- 💞️ I’m looking to collaborate on any Node or Python project.
 - 📫 You can reach me on victory.ifebhor@gmail.com
 
 <!---
