@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [victory.ifebhor@gmail.com](mailto:victory.ifebhor@gmail.com)
-* 🤝  I'm open to collaborating on Any project.
+* 🤝  I'm open to collaborating on any project.
 
 ### Skills
 
