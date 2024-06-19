@@ -1,7 +1,7 @@
 Hi 👋 My name is Victory Ifebhor
 ================================
 
-Backend Developer
+Software Developer
 -----------------
 
 * 🌍  I'm based in Nigeria
