@@ -1,8 +1,8 @@
 Hi 👋 My name is Victory Ifebhor
 ================================
 
-Software Developer
------------------
+Software Engineer/Backend Developer
+-----------------------------------
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [victory.ifebhor@gmail.com](mailto:victory.ifebhor@gmail.com)
